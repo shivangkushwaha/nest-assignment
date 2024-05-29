@@ -1,4 +1,3 @@
-// src/wallet-address/wallet-address.service.ts
 import { Injectable, NotFoundException } from '@nestjs/common';
 import { InjectModel } from '@nestjs/sequelize';
 import { WalletAddress } from '../models/wallet-address.model';
